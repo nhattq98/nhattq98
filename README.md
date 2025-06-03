@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Nhat 👋</h1>
 
-<!--
-**nhattq98/nhattq98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Android Engineer | Kotlin & Jetpack Compose | Clean Architecture Advocate
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working as a **Android Engineer**
+- 💡 Passionate about building clean, maintainable Android apps
+- 🚀 Experienced with:
+  - **Kotlin**, **Jetpack Libararies**, **Jetpack Compose**
+  - **MVVM**, **Clean Architecture**, **Hilt**,
+  - **Coroutines**, **Flow**,
+- 🧠 Currently learning: **KMP Multi platform**, **IOS**, **Apply LLM**
+- 🎯 Personal goals: Finish indie app, solve LeetCode, improve English
+- 🌱 Always improving and open to collaboration
+
+---
+
+## 🛠 Tech Stack
+
+```kotlin
+// Android
+Kotlin, Jetpack, Jetpack Compose, Hilt, Room, ViewModel, Navigation
+
+// Architecture & Tools
+MVVM, Clean Architecture, Coroutines, Flow, Git, GitHub, Retrofit, Firebase
+
+// Learning
+Ktor, Machine Learning, SQL, Docker
+****

@@ -31,6 +31,7 @@ MVVM, Clean Architecture, Coroutines, Flow, Git, GitHub, Retrofit, Firebase
 
 // Learning
 Ktor, Machine Learning, SQL, Design Pattern
+```
 
 ## My technical android blog:
 - https://medium.com/@tahn98
